@@ -10,5 +10,5 @@
 
 ## Preview:
 <div>
-  <img src= "https://github.com/Juli-CVidal/Personalized-Calendar-Wallpaper/blob/master/calendar/bg/Giant.jpg"/>
+  <img src= "https://github.com/Juli-CVidal/Personalized-Calendar-Wallpaper/blob/master/calendar/preview.jpg"/>
 </div>
