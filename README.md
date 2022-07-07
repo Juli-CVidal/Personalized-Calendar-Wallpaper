@@ -1,5 +1,5 @@
 # Personalized-Calendar-Wallpaper
-##I have made modifications to a wallpaper extracted from the Internet (thanks KvinL for sharing it!)
+## I have made modifications to a wallpaper extracted from the Internet (thanks KvinL for sharing it!)
 
 ### Modifications:
 <ul>
